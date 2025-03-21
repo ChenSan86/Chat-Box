@@ -81,4 +81,4 @@ async fetchModelResponse(prompt) {
 
 ## 开发日志
 
-* [ai-chatbox标签的模拟实现-开发日志]([https://blog.csdn.net/2401_87362551/article/details/146158267?spm=1001.2014.3001.5501](https://blog.csdn.net/2401_87362551/article/details/146168935?spm=1001.2014.3001.5502))
+* [ai-chatbox标签的模拟实现-开发日志](https://blog.csdn.net/2401_87362551/article/details/146168935?spm=1001.2014.3001.5502)
